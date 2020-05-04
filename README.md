@@ -60,6 +60,8 @@ Other awesome links & resources!
 
 * [w3schools](https://www.w3schools.com/sql/default.asp) - SQL Tutorial with w3schools
 * [pluralsight](https://www.pluralsight.com/courses/code-school-try-sql) - pluralsight (Code School: Try SQL)
+* [codecademy](https://www.codecademy.com/learn/learn-sql) - codecademy (Learn SQL)
+* [sqlzoo](https://sqlzoo.net/) - SQL Tutorial
 
 # Contributing
 
