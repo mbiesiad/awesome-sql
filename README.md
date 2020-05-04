@@ -10,11 +10,17 @@
 
 # Content
 
+* [Formatters](#formatters)
 * [SQL Server](#sql-server)
 * [Tools](#tools)
 * [Code of Conduct](#code-of-conduct)
 * [Contributing](#contributing)
 * [License](#license)
+
+# Formatters
+
+* [PoorMansTSqlFormatter](https://github.com/TaoK/PoorMansTSqlFormatter) - A small free .Net and JS library (with demo UI, command-line bulk formatter, SSMS/VS add-in, notepad++ plugin, winmerge plugin, and demo webpage) for reformatting and coloring T-SQL code to the user's preferences.
+* [SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm) - Instant SQL Formatter.
 
 # SQL Server
 
