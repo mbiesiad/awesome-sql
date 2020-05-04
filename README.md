@@ -11,6 +11,7 @@
 # Content
 
 * [Formatters](#formatters)
+* [Oracle](#oracle)
 * [SQL Server](#sql-server)
 * [Tools](#tools)
 * [Code of Conduct](#code-of-conduct)
@@ -21,6 +22,15 @@
 
 * [PoorMansTSqlFormatter](https://github.com/TaoK/PoorMansTSqlFormatter) - A small free .Net and JS library (with demo UI, command-line bulk formatter, SSMS/VS add-in, notepad++ plugin, winmerge plugin, and demo webpage) for reformatting and coloring T-SQL code to the user's preferences.
 * [SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm) - Instant SQL Formatter.
+
+# Oracle
+
+* [alexandria-plsql-utils](https://github.com/mortenbra/alexandria-plsql-utils) - Oracle PL/SQL Utility Library
+* [PLSQL-JSON](https://github.com/doberkofler/PLSQL-JSON) - The JSON encode/decode library for Oracle PL/SQL 
+* [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html) - Oracle SQL Developer is a free, integrated development environment that simplifies the development and management of Oracle Database in both traditional and Cloud deployments.
+* [SQL Tools for Oracle](https://sourceforge.net/projects/sqlt/) - SQLTools is a light weight and robust frontend for Oracle database development. 
+* [utPLSQL](http://utplsql.org/) - utPLSQL is an open-source testing framework for PL/SQL and SQL
+* [Oracle Database 18c Express Edition (XE)](https://www.oracle.com/database/technologies/appdev/xe.html) - Free Oracle Database for Everyone
 
 # SQL Server
 
