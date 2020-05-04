@@ -14,6 +14,7 @@
 * [Oracle](#oracle)
 * [SQL Server](#sql-server)
 * [Tools](#tools)
+* [Awesome resources](#awesome-resources)
 * [Code of Conduct](#code-of-conduct)
 * [Contributing](#contributing)
 * [License](#license)
@@ -31,6 +32,7 @@
 * [SQL Tools for Oracle](https://sourceforge.net/projects/sqlt/) - SQLTools is a light weight and robust frontend for Oracle database development. 
 * [utPLSQL](http://utplsql.org/) - utPLSQL is an open-source testing framework for PL/SQL and SQL
 * [Oracle Database 18c Express Edition (XE)](https://www.oracle.com/database/technologies/appdev/xe.html) - Free Oracle Database for Everyone
+* [Oracle Database Online Documentation 12c, Release 1 (12.1)](https://docs.oracle.com/database/121/SQLRF/toc.htm) - documentation
 
 # SQL Server
 
@@ -52,6 +54,12 @@
 * [SQL Fiddle](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solution
 * [SqlPad](http://rickbergfalk.github.io/sqlpad/#/) - A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC.
 
+# Awesome resources
+
+Other awesome links & resources!
+
+* [w3schools](https://www.w3schools.com/sql/default.asp) - SQL Tutorial with w3schools
+* [pluralsight](https://www.pluralsight.com/courses/code-school-try-sql) - pluralsight (Code School: Try SQL)
 
 # Contributing
 
@@ -70,7 +78,7 @@ Examples of behavior that contributes to creating a positive environment include
 # License
 Free [MIT](LICENSE) license.
 
-See also other [AWESOME here](https://github.com/mbiesiad/awesome-chess) and [here](https://github.com/mbiesiad/awesome-astronomy).
+See also other [AWESOME here](https://github.com/mbiesiad/awesome-chess) and [here](https://github.com/mbiesiad/awesome-astronomy). :fire:
 
 __________________________________________________
 
