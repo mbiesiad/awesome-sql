@@ -10,6 +10,8 @@
 
 # Content
 
+* [SQL Server](#sql-server)
+* [Tools](#tools)
 * [Code of Conduct](#code-of-conduct)
 * [Contributing](#contributing)
 * [License](#license)
@@ -19,6 +21,17 @@
 * [SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?redirectedfrom=MSDN&view=sql-server-ver15)
 * [SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 * [tSQLt](https://tsqlt.org/) - Unit testing framework for SQL Server
+
+# Tools
+
+* [BigBash](https://github.com/Borisvl/bigbash) - A converter that generates a bash one-liner from an SQL Select query (no DB necessary)
+* [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
+* [Flyway](https://flywaydb.org/) - Version control for a database. Robust schema evolution across all your environments. With ease, pleasure and plain SQL.
+* [Liquibase](https://www.liquibase.org/) - Manage database changes with ease
+* [PixQL](https://github.com/Phildo/pixQL) - SQL for image processing
+* [SQL Fiddle](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solution
+* [SqlPad](http://rickbergfalk.github.io/sqlpad/#/) - A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC.
+
 
 # Contributing
 
