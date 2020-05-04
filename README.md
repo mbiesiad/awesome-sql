@@ -28,6 +28,10 @@
 * [SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 * [tSQLt](https://tsqlt.org/) - Unit testing framework for SQL Server
 
+![database-2](https://github.com/mbiesiad/awesome-sql/blob/master/media/db_2.png)
+
+> _Source: Pexels.com, image by panumas nikhomkhai: https://www.pexels.com/photo/bandwidth-close-up-computer-connection-1148820/_
+
 # Tools
 
 * [BigBash](https://github.com/Borisvl/bigbash) - A converter that generates a bash one-liner from an SQL Select query (no DB necessary)
