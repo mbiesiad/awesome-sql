@@ -8,6 +8,8 @@
 
 > _Source: Pexels.com, image by Manuel Geissinger: https://www.pexels.com/photo/interior-of-office-building-325229/_
 
+Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
+
 # Content
 
 * [Formatters](#formatters)
