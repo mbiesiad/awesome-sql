@@ -78,10 +78,10 @@ Examples of behavior that contributes to creating a positive environment include
     Showing empathy towards other community members
 
 # License
-Free [MIT](LICENSE) license.
+Free [license](LICENSE).
 
 See also other [AWESOME here](https://github.com/mbiesiad/awesome-chess) and [here](https://github.com/mbiesiad/awesome-astronomy). :fire:
 
 __________________________________________________
 
-Created by @[mbiesiad](https://github.com/mbiesiad)
+Created by @[mbiesiad](https://github.com/mbiesiad) & awesome [contributors](https://github.com/mbiesiad/awesome-sql/graphs/contributors)
