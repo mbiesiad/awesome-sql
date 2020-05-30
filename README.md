@@ -28,19 +28,19 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
 # Oracle
 
-* [alexandria-plsql-utils](https://github.com/mortenbra/alexandria-plsql-utils) - Oracle PL/SQL Utility Library
-* [PLSQL-JSON](https://github.com/doberkofler/PLSQL-JSON) - The JSON encode/decode library for Oracle PL/SQL 
+* [alexandria-plsql-utils](https://github.com/mortenbra/alexandria-plsql-utils) - Oracle PL/SQL Utility Library.
+* [PLSQL-JSON](https://github.com/doberkofler/PLSQL-JSON) - The JSON encode/decode library for Oracle PL/SQL .
 * [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html) - Oracle SQL Developer is a free, integrated development environment that simplifies the development and management of Oracle Database in both traditional and Cloud deployments.
 * [SQL Tools for Oracle](https://sourceforge.net/projects/sqlt/) - SQLTools is a light weight and robust frontend for Oracle database development. 
-* [utPLSQL](http://utplsql.org/) - utPLSQL is an open-source testing framework for PL/SQL and SQL
-* [Oracle Database 18c Express Edition (XE)](https://www.oracle.com/database/technologies/appdev/xe.html) - Free Oracle Database for Everyone
-* [Oracle Database Online Documentation 12c, Release 1 (12.1)](https://docs.oracle.com/database/121/SQLRF/toc.htm) - documentation
+* [utPLSQL](http://utplsql.org/) - utPLSQL is an open-source testing framework for PL/SQL and SQL.
+* [Oracle Database 18c Express Edition (XE)](https://www.oracle.com/database/technologies/appdev/xe.html) - Free Oracle Database for everyone.
+* [Oracle Database Online Documentation 12c, Release 1 (12.1)](https://docs.oracle.com/database/121/SQLRF/toc.htm) - Documentation.
 
 # SQL Server
 
 * [SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?redirectedfrom=MSDN&view=sql-server-ver15)
 * [SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
-* [tSQLt](https://tsqlt.org/) - Unit testing framework for SQL Server
+* [tSQLt](https://tsqlt.org/) - Unit testing framework for SQL Server.
 
 ![database-2](https://github.com/mbiesiad/awesome-sql/blob/master/media/db_2.png)
 
@@ -48,22 +48,22 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
 # Tools
 
-* [BigBash](https://github.com/Borisvl/bigbash) - A converter that generates a bash one-liner from an SQL Select query (no DB necessary)
-* [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
+* [BigBash](https://github.com/Borisvl/bigbash) - A converter that generates a bash one-liner from an SQL Select query (no DB necessary).
+* [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 * [Flyway](https://flywaydb.org/) - Version control for a database. Robust schema evolution across all your environments. With ease, pleasure and plain SQL.
-* [Liquibase](https://www.liquibase.org/) - Manage database changes with ease
-* [PixQL](https://github.com/Phildo/pixQL) - SQL for image processing
-* [SQL Fiddle](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solution
+* [Liquibase](https://www.liquibase.org/) - Manage database changes with ease.
+* [PixQL](https://github.com/Phildo/pixQL) - SQL for image processing.
+* [SQL Fiddle](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solution.
 * [SqlPad](http://rickbergfalk.github.io/sqlpad/#/) - A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC.
 
 # Awesome resources
 
 Other awesome links & resources!
 
-* [w3schools](https://www.w3schools.com/sql/default.asp) - SQL Tutorial with w3schools
-* [pluralsight](https://www.pluralsight.com/courses/code-school-try-sql) - pluralsight (Code School: Try SQL)
-* [codecademy](https://www.codecademy.com/learn/learn-sql) - codecademy (Learn SQL)
-* [sqlzoo](https://sqlzoo.net/) - SQL Tutorial
+* [w3schools](https://www.w3schools.com/sql/default.asp) - SQL Tutorial with w3schools.
+* [pluralsight](https://www.pluralsight.com/courses/code-school-try-sql) - Pluralsight (Code School: Try SQL).
+* [codecademy](https://www.codecademy.com/learn/learn-sql) - Codecademy (Learn SQL).
+* [sqlzoo](https://sqlzoo.net/) - SQL Tutorial.
 
 # Contributing
 
