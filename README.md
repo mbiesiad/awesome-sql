@@ -10,7 +10,7 @@
 
 Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
-# Content
+# Contents
 
 * [Formatters](#formatters)
 * [Oracle](#oracle)
@@ -80,6 +80,8 @@ Examples of behavior that contributes to creating a positive environment include
     Showing empathy towards other community members
 
 # License
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 Free [license](LICENSE).
 
 See also other [AWESOME here](https://github.com/mbiesiad/awesome-chess) and [here](https://github.com/mbiesiad/awesome-astronomy). :fire:
