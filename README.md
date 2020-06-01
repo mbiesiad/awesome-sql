@@ -31,8 +31,8 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 * [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html) - A free, integrated development environment.
 * [SQL Tools for Oracle](https://sourceforge.net/projects/sqlt/) - A light weight and robust frontend for Oracle database development. 
 * [Testing Framework for PL/SQL](http://utplsql.org/) - An open-source testing framework for PL/SQL and SQL.
-* [Oracle Database 18c Express Edition (XE)](https://www.oracle.com/database/technologies/appdev/xe.html) - Free Oracle Database for everyone.
-* [Oracle Database Online Documentation 12c, Release 1 (12.1)](https://docs.oracle.com/database/121/SQLRF/toc.htm) - Documentation.
+* [Oracle Database 18c Express Edition](https://www.oracle.com/database/technologies/appdev/xe.html) - Free Oracle Database for everyone.
+* [Oracle Database Online Documentation 12c](https://docs.oracle.com/database/121/SQLRF/toc.htm) - Documentation, release 1 (12.1).
 
 # SQL Server
 
