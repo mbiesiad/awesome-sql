@@ -1,6 +1,4 @@
-# Awesome SQL
-
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome SQL [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 😎 Awesome lists about SQL stuff
 
@@ -23,16 +21,16 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
 # Formatters
 
-* [PoorMansTSqlFormatter](https://github.com/TaoK/PoorMansTSqlFormatter) - A small free .NET and JS library (with demo UI, command-line bulk formatter, SSMS/VS add-in, notepad++ plugin, winmerge plugin, and demo webpage) for reformatting and coloring T-SQL code to the user's preferences.
+* [PoorMansTSqlFormatter](https://github.com/TaoK/PoorMansTSqlFormatter) - A small free .NET and JS library.
 * [SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm) - Instant SQL Formatter.
 
 # Oracle
 
-* [alexandria-plsql-utils](https://github.com/mortenbra/alexandria-plsql-utils) - Oracle PL/SQL Utility Library.
+* [Alexandria-PLSQL-Utils](https://github.com/mortenbra/alexandria-plsql-utils) - Oracle PL/SQL Utility Library.
 * [PLSQL-JSON](https://github.com/doberkofler/PLSQL-JSON) - The JSON encode/decode library for Oracle PL/SQL.
-* [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html) - Oracle SQL Developer is a free, integrated development environment that simplifies the development and management of Oracle Database in both traditional and Cloud deployments.
-* [SQL Tools for Oracle](https://sourceforge.net/projects/sqlt/) - SQLTools is a light weight and robust frontend for Oracle database development. 
-* [utPLSQL](http://utplsql.org/) - utPLSQL is an open-source testing framework for PL/SQL and SQL.
+* [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html) - A free, integrated development environment.
+* [SQL Tools for Oracle](https://sourceforge.net/projects/sqlt/) - A light weight and robust frontend for Oracle database development. 
+* [Testing Framework for PL/SQL](http://utplsql.org/) - An open-source testing framework for PL/SQL and SQL.
 * [Oracle Database 18c Express Edition (XE)](https://www.oracle.com/database/technologies/appdev/xe.html) - Free Oracle Database for everyone.
 * [Oracle Database Online Documentation 12c, Release 1 (12.1)](https://docs.oracle.com/database/121/SQLRF/toc.htm) - Documentation.
 
@@ -40,7 +38,7 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
 * [SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?redirectedfrom=MSDN&view=sql-server-ver15)
 * [SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
-* [tSQLt](https://tsqlt.org/) - Unit testing framework for SQL Server.
+* [Database Unit Testing for SQL Server](https://tsqlt.org/) - Unit testing framework for SQL Server.
 
 ![database-2](https://github.com/mbiesiad/awesome-sql/blob/master/media/db_2.png)
 
@@ -48,22 +46,22 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
 # Tools
 
-* [BigBash](https://github.com/Borisvl/bigbash) - A converter that generates a bash one-liner from an SQL Select query (no DB necessary).
+* [BigBash](https://github.com/Borisvl/bigbash) - A converter that generates a bash one-liner from an SQL Select query.
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
-* [Flyway](https://flywaydb.org/) - Version control for a database. Robust schema evolution across all your environments. With ease, pleasure and plain SQL.
+* [Flyway](https://flywaydb.org/) - Version control for a database.
 * [Liquibase](https://www.liquibase.org/) - Manage database changes with ease.
 * [PixQL](https://github.com/Phildo/pixQL) - SQL for image processing.
 * [SQL Fiddle](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solution.
-* [SqlPad](http://rickbergfalk.github.io/sqlpad/#/) - A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC.
+* [SQLPad](http://rickbergfalk.github.io/sqlpad/#/) - A web app for writing and running SQL queries and visualizing the results.
 
 # Awesome resources
 
 Other awesome links & resources!
 
-* [w3schools](https://www.w3schools.com/sql/default.asp) - SQL Tutorial with w3schools.
-* [pluralsight](https://www.pluralsight.com/courses/code-school-try-sql) - Pluralsight (Code School: Try SQL).
-* [codecademy](https://www.codecademy.com/learn/learn-sql) - Codecademy (Learn SQL).
-* [sqlzoo](https://sqlzoo.net/) - SQL Tutorial.
+* [W3Schools](https://www.w3schools.com/sql/default.asp) - SQL Tutorial with W3Schools.
+* [Pluralsight](https://www.pluralsight.com/courses/code-school-try-sql) - Pluralsight (Code School: Try SQL).
+* [CodecAcademy](https://www.codecademy.com/learn/learn-sql) - CodecAcademy (Learn SQL).
+* [SQLZoo](https://sqlzoo.net/) - SQL Tutorial.
 
 # Contributing
 
