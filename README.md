@@ -1,12 +1,6 @@
 # Awesome SQL [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-😎 Awesome lists about SQL stuff
-
-![database-1](https://github.com/mbiesiad/awesome-sql/blob/master/media/db_1.png)
-
-> _Source: Pexels.com, image by Manuel Geissinger: https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260_
-
-Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
+SQL-related awesome list.
 
 ## Contents
 
@@ -37,10 +31,6 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 * [SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?redirectedfrom=MSDN&view=sql-server-ver15)
 * [SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 * [Database Unit Testing for SQL Server](https://tsqlt.org/) - Unit testing framework for SQL Server.
-
-![database-2](https://github.com/mbiesiad/awesome-sql/blob/master/media/db_2.png)
-
-> _Source: Pexels.com, image by panumas nikhomkhai: https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260_
 
 ## Tools
 
@@ -75,12 +65,3 @@ Examples of behavior that contributes to creating a positive environment include
     Focusing on what is best for the community
     Showing empathy towards other community members
 ```
-## License
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-Free [license](LICENSE).
-
-See also other [AWESOME here](https://github.com/mbiesiad/awesome-chess) and [here](https://github.com/mbiesiad/awesome-astronomy). :fire:
-
----
-Created by @[mbiesiad](https://github.com/mbiesiad) & awesome [contributors](https://github.com/mbiesiad/awesome-sql/graphs/contributors)
