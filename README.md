@@ -28,8 +28,8 @@ SQL-related awesome list.
 
 ## SQL Server
 
-* [SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?redirectedfrom=MSDN&view=sql-server-ver15)
-* [SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
+* [SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?redirectedfrom=MSDN&view=sql-server-ver15) - A modern development tool for building SQL Server relational databases, Azure SQL Databases, Analysis Services (AS) data models, Integration Services (IS) packages, and Reporting Services (RS) reports. 
+* [SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019) - SQL Server 2019 by Microsoft.
 * [Database Unit Testing for SQL Server](https://tsqlt.org/) - Unit testing framework for SQL Server.
 
 ## Tools
