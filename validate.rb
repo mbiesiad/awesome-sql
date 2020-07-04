@@ -1,4 +1,4 @@
-BASE_URI = ENV['BASE_URI'] || 'https://github.com/jondot/awesome-react-native'
+BASE_URI = ENV['BASE_URI'] || 'https://github.com/mbiesiad/awesome-sql'
 
 doc = Nokogiri::HTML(Kramdown::Document.new(open('README.md').read).to_html)
 links = doc.css('a').to_a
