@@ -39,7 +39,7 @@ SQL-related awesome list.
 * [Flyway](https://flywaydb.org/) - Version control for a database.
 * [Liquibase](https://www.liquibase.org/) - Manage database changes with ease.
 * [PixQL](https://github.com/Phildo/pixQL) - SQL for image processing.
-* SQL Fiddle - A tool for easy online testing and sharing of database problems and their solution.
+* [SQL Fiddle](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solution.
 * [SQLPad](http://rickbergfalk.github.io/sqlpad/#/) - A web app for writing and running SQL queries and visualizing the results.
 
 ## Awesome resources
