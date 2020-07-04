@@ -1,8 +1,4 @@
-before_install:
- - sudo apt-get update -qq
- - sudo apt-get install -qq python3.2 python2.7
-
-python:
- - "2.7"
-
-script: ./run_build.sh
+language: ruby
+rvm:
+- 2.2
+script: bundle exec ruby validate.rb
