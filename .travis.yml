@@ -3,3 +3,4 @@ node_js:
   - 'node'
 # git:
 #   depth: false
+script: ./run_build.sh
