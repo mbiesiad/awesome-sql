@@ -4,12 +4,12 @@ SQL-related awesome list.
 
 ## Contents
 
-1. [Formatters](#formatters)
-2. [Oracle](#oracle)
-3. [SQL Server](#sql-server)
-4. [Tools](#tools)
-5. [Awesome resources](#awesome-resources)
-6. [Code of Conduct](#code-of-conduct)
+* [Formatters](#formatters)
+* [Oracle](#oracle)
+* [SQL Server](#sql-server)
+* [Tools](#tools)
+* [Awesome resources](#awesome-resources)
+* [Code of Conduct](#code-of-conduct)
 
 ## Formatters
 
