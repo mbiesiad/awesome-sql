@@ -55,6 +55,8 @@ Other awesome links & resources!
 ## Conferences
 
 * [SQL Server Virtual Conference](https://www.2020twenty.net/sql-server-virtual-conference/) - SQL Server Virtual Conference with C# Corner.
+* [SQL Day](https://sqlday.pl/en/) - SQLDay is the largest conference focused on Microsoft Data Platform – databases, Big Data, Business Intelligence and advanced data analysis.
+* [JOIN! DB Conference](https://join-conference.com/) - JOIN! is a premium conference for all specialists using Microsoft SQL Server, featuring some of the best speakers in the industry.
 
 ## Contributing
 
