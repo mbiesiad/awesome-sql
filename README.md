@@ -9,6 +9,7 @@ SQL-related awesome list.
 * [SQL Server](#sql-server)
 * [Tools](#tools)
 * [Awesome resources](#awesome-resources)
+* [Conferences](#conferences)
 * [Code of Conduct](#code-of-conduct)
 
 ## Formatters
@@ -50,6 +51,10 @@ Other awesome links & resources!
 * [Pluralsight](https://www.pluralsight.com/courses/code-school-try-sql) - Pluralsight (Code School: Try SQL).
 * [CodecAcademy](https://www.codecademy.com/learn/learn-sql) - CodecAcademy (Learn SQL).
 * [SQLZoo](https://sqlzoo.net/) - SQL Tutorial.
+
+## Conferences
+
+* [SQL Server Virtual Conference](https://www.2020twenty.net/sql-server-virtual-conference/) - SQL Server Virtual Conference with C# Corner.
 
 ## Contributing
 
