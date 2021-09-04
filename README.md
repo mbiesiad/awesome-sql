@@ -8,7 +8,7 @@ SQL-related awesome list.
 * [Oracle](#oracle)
 * [SQL Server](#sql-server)
 * [Tools](#tools)
-* [Awesome resources](#awesome-resources)
+* [Miscellaneous](#miscellaneous)
 * [Conferences](#conferences)
 * [Code of Conduct](#code-of-conduct)
 
@@ -43,7 +43,7 @@ SQL-related awesome list.
 * [SQL Fiddle](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solution.
 * [SQLPad](http://rickbergfalk.github.io/sqlpad/#/) - A web app for writing and running SQL queries and visualizing the results.
 
-## Awesome resources
+## Miscellaneous
 
 Other awesome links & resources!
 
