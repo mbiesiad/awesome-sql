@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+# Awesome SQL [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-You can use the [editor on GitHub](https://github.com/mbiesiad/awesome-sql/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+SQL-related awesome list.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contents
 
-### Markdown
+* [Formatters](#formatters)
+* [Oracle](#oracle)
+* [SQL Server](#sql-server)
+* [Tools](#tools)
+* [Miscellaneous](#miscellaneous)
+* [Conferences](#conferences)
+* [Code of Conduct](#code-of-conduct)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Formatters
 
-```markdown
-Syntax highlighted code block
+* [PoorMansTSqlFormatter](https://github.com/TaoK/PoorMansTSqlFormatter) - A small free .NET and JS library.
+* [SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm) - Instant SQL Formatter.
 
-# Header 1
-## Header 2
-### Header 3
+## Oracle
 
-- Bulleted
-- List
+* [Alexandria-PLSQL-Utils](https://github.com/mortenbra/alexandria-plsql-utils) - Oracle PL/SQL Utility Library.
+* [PLSQL-JSON](https://github.com/doberkofler/PLSQL-JSON) - The JSON encode/decode library for Oracle PL/SQL.
+* [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html) - A free, integrated development environment.
+* [SQL Tools for Oracle](https://sourceforge.net/projects/sqlt/) - A light weight and robust frontend for Oracle database development. 
+* [Testing Framework for PL/SQL](http://utplsql.org/) - An open-source testing framework for PL/SQL and SQL.
+* [Oracle Database 18c Express Edition](https://www.oracle.com/database/technologies/appdev/xe.html) - Free Oracle Database for everyone.
+* [Oracle Database Online Documentation 12c](https://docs.oracle.com/database/121/SQLRF/toc.htm) - Documentation, release 1 (12.1).
 
-1. Numbered
-2. List
+## SQL Server
 
-**Bold** and _Italic_ and `Code` text
+* [SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?redirectedfrom=MSDN&view=sql-server-ver15) - A modern development tool for building SQL Server relational databases, Azure SQL Databases, Analysis Services (AS) data models, Integration Services (IS) packages, and Reporting Services (RS) reports. 
+* [SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019) - SQL Server 2019 by Microsoft.
+* [Database Unit Testing for SQL Server](https://tsqlt.org/) - Unit testing framework for SQL Server.
 
-[Link](url) and ![Image](src)
+## Tools
+
+* [BigBash](https://github.com/Borisvl/bigbash) - A converter that generates a bash one-liner from an SQL Select query.
+* [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
+* [Flyway](https://flywaydb.org/) - Version control for a database.
+* [Rumba RDBM](https://www.dbinvent.com/) - Database schema migration tool, plain-SQL, and declarative schema definition supported.
+* [Liquibase](https://www.liquibase.org/) - Manage database changes with ease.
+* [PixQL](https://github.com/Phildo/pixQL) - SQL for image processing.
+* [SQL Fiddle](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solution.
+* [SQLPad](http://rickbergfalk.github.io/sqlpad/#/) - A web app for writing and running SQL queries and visualizing the results.
+
+## Miscellaneous
+
+Other awesome links & resources!
+
+* [W3Schools](https://www.w3schools.com/sql/default.asp) - SQL Tutorial with W3Schools.
+* [Pluralsight](https://www.pluralsight.com/courses/code-school-try-sql) - Pluralsight (Code School: Try SQL).
+* [CodecAcademy](https://www.codecademy.com/learn/learn-sql) - CodecAcademy (Learn SQL).
+* [SQLZoo](https://sqlzoo.net/) - SQL Tutorial.
+
+## Conferences
+
+* [SQL Server Virtual Conference](https://www.2020twenty.net/sql-server-virtual-conference/) - SQL Server Virtual Conference with C# Corner.
+* [SQL Day](https://sqlday.pl/en/) - SQLDay is the largest conference focused on Microsoft Data Platform – databases, Big Data, Business Intelligence and advanced data analysis.
+* [JOIN! DB Conference](https://join-conference.com/) - JOIN! is a premium conference for all specialists using Microsoft SQL Server, featuring some of the best speakers in the industry.
+
+## Contributing
+
+Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
+
+## Code of Conduct
+
+Examples of behavior that contributes to creating a positive environment include:
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mbiesiad/awesome-sql/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    Using welcoming and inclusive language
+    Being respectful of differing viewpoints and experiences
+    Gracefully accepting constructive criticism
+    Focusing on what is best for the community
+    Showing empathy towards other community members
+```
