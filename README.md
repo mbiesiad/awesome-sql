@@ -38,6 +38,7 @@ SQL-related awesome list.
 * [BigBash](https://github.com/Borisvl/bigbash) - A converter that generates a bash one-liner from an SQL Select query.
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 * [Flyway](https://flywaydb.org/) - Version control for a database.
+* [Rumba RDBM](https://www.dbinvent.com/) - Database schema migration tool, plain-SQL, and declarative schema definition supported.
 * [Liquibase](https://www.liquibase.org/) - Manage database changes with ease.
 * [PixQL](https://github.com/Phildo/pixQL) - SQL for image processing.
 * [SQL Fiddle](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solution.
