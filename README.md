@@ -52,6 +52,7 @@ Other awesome links & resources!
 * [Pluralsight](https://www.pluralsight.com/courses/code-school-try-sql) - Pluralsight (Code School: Try SQL).
 * [CodecAcademy](https://www.codecademy.com/learn/learn-sql) - CodecAcademy (Learn SQL).
 * [SQLZoo](https://sqlzoo.net/) - SQL Tutorial.
+* [Scaler Topics](https://www.scaler.com/topics/sql/) - Learn basic and advanced concepts of SQL.
 
 ## Conferences
 
