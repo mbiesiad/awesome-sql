@@ -32,6 +32,8 @@ SQL-related awesome list.
 * [SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?redirectedfrom=MSDN&view=sql-server-ver15) - A modern development tool for building SQL Server relational databases, Azure SQL Databases, Analysis Services (AS) data models, Integration Services (IS) packages, and Reporting Services (RS) reports. 
 * [SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019) - SQL Server 2019 by Microsoft.
 * [Database Unit Testing for SQL Server](https://tsqlt.org/) - Unit testing framework for SQL Server.
+* [SQL Server Architecture](https://www.interviewbit.com/blog/sql-server-architecture/) - Detailed Explanation.
+* [SQL Server Interview Questions](https://www.interviewbit.com/sql-server-interview-questions/) - Prepare for SQL interview with these most asked real-world SQL interview questions.
 
 ## Tools
 
@@ -53,6 +55,7 @@ Other awesome links & resources!
 * [CodecAcademy](https://www.codecademy.com/learn/learn-sql) - CodecAcademy (Learn SQL).
 * [SQLZoo](https://sqlzoo.net/) - SQL Tutorial.
 * [Scaler Topics](https://www.scaler.com/topics/sql/) - Learn basic and advanced concepts of SQL.
+* [InetrviewBit](https://www.interviewbit.com/sql-cheat-sheet/) - Learn SQL: Basic to Advanced Concepts.
 
 ## Conferences
 
