@@ -45,6 +45,7 @@ SQL-related awesome list.
 * [PixQL](https://github.com/Phildo/pixQL) - SQL for image processing.
 * [SQL Fiddle](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solution.
 * [SQLPad](http://rickbergfalk.github.io/sqlpad/#/) - A web app for writing and running SQL queries and visualizing the results.
+* [EverSQL](https://www.eversql.com/) - Automated query optimizer, performance monitor and analyser, powered by AI.
 
 ## Miscellaneous
 
