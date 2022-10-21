@@ -33,6 +33,7 @@ SQL-related awesome list.
 * [SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019) - SQL Server 2019 by Microsoft.
 * [Database Unit Testing for SQL Server](https://tsqlt.org/) - Unit testing framework for SQL Server.
 * [SQL Server Architecture](https://www.interviewbit.com/blog/sql-server-architecture/) - Detailed Explanation.
+* [Learn SQL Server](https://www.scaler.com/topics/sql-server/) - Detail information related to SQL Server.
 * [SQL Server Interview Questions](https://www.interviewbit.com/sql-server-interview-questions/) - Prepare for SQL interview with these most asked real-world SQL interview questions.
 
 ## Tools
