@@ -38,6 +38,7 @@ SQL-related awesome list.
 
 ## Tools
 
+* [sqlaxe](https://github.com/djberube/sqlaxe) - CLI tool for searching, filtering, formatting, and splitting SQL files. Supports 40+ dialects of SQL.
 * [BigBash](https://github.com/Borisvl/bigbash) - A converter that generates a bash one-liner from an SQL Select query.
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 * [Flyway](https://flywaydb.org/) - Version control for a database.
