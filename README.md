@@ -55,7 +55,6 @@ SQL-related awesome list.
 Other awesome links & resources!
 
 * [W3Schools](https://www.w3schools.com/sql/default.asp) - SQL Tutorial with W3Schools.
-* [Pluralsight](https://www.pluralsight.com/courses/code-school-try-sql) - Pluralsight (Code School: Try SQL).
 * [CodecAcademy](https://www.codecademy.com/learn/learn-sql) - CodecAcademy (Learn SQL).
 * [SQLZoo](https://sqlzoo.net/) - SQL Tutorial.
 * [Scaler Topics](https://www.scaler.com/topics/sql/) - Learn basic and advanced concepts of SQL.
@@ -63,13 +62,11 @@ Other awesome links & resources!
 
 ## Conferences
 
-* [SQL Server Virtual Conference](https://www.2020twenty.net/sql-server-virtual-conference/) - SQL Server Virtual Conference with C# Corner.
 * [SQL Day](https://sqlday.pl/en/) - SQLDay is the largest conference focused on Microsoft Data Platform – databases, Big Data, Business Intelligence and advanced data analysis.
-* [JOIN! DB Conference](https://join-conference.com/) - JOIN! is a premium conference for all specialists using Microsoft SQL Server, featuring some of the best speakers in the industry.
 
 ## Contributing
 
-Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
+Warmly welcome! Kindly go through [Contribution Guidelines](https://github.com/mbiesiad/awesome-sql/blob/master/CONTRIBUTING.md) first.
 
 ## Code of Conduct
 
