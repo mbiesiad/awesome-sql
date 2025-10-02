@@ -63,7 +63,7 @@ Other awesome links & resources!
 ## Conferences
 
 * [SQL Day](https://sqlday.pl/en/) - SQLDay is the largest conference focused on Microsoft Data Platform – databases, Big Data, Business Intelligence and advanced data analysis.
-* 
+  
 ## Defense and Mitigation
 
 ## Contributing
