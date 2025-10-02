@@ -66,6 +66,8 @@ Other awesome links & resources!
   
 ## Defense and Mitigation
 
+Protection, hardening, security.
+
 ## Contributing
 
 Warmly welcome! Kindly go through [Contribution Guidelines](https://github.com/mbiesiad/awesome-sql/blob/master/CONTRIBUTING.md) first.
