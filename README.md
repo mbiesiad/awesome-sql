@@ -63,6 +63,17 @@ Other awesome links & resources!
 ## Conferences
 
 * [SQL Day](https://sqlday.pl/en/) - SQLDay is the largest conference focused on Microsoft Data Platform – databases, Big Data, Business Intelligence and advanced data analysis.
+  
+## Defense and Mitigation
+
+Protection, hardening, security.
+
+* [OWASP SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html) - Practical guidance on how to prevent SQL injection via parameterization, input validation, etc.
+* [OWASP Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.html) - Broader view on injection flaws (not just SQL) and mitigation strategies.
+* [OWASP Database Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Database_Security_Cheat_Sheet.html) - Advice on secure configuration of SQL / NoSQL systems and database-level defenses.
+* [OWASP: Testing for SQL Injection (WSTG)](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection) - How to test applications for SQL injection vulnerabilities.
+* [MITRE CAPEC-66: SQL Injection](https://capec.mitre.org/data/definitions/66.html) - Entry in CAPEC (Common Attack Pattern Enumeration & Classification) describing SQLi attack patterns.
+* [CWE-20: Improper Input Validation](https://cwe.mitre.org/data/definitions/20.html) - Entry in CWE by MITRE about Improper Input Validation.
 
 ## Contributing
 
