@@ -16,6 +16,7 @@ SQL-related awesome list.
 
 * [PoorMansTSqlFormatter](https://github.com/TaoK/PoorMansTSqlFormatter) - A small free .NET and JS library.
 * [SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm) - Instant SQL Formatter.
+* [SQL Minifier](https://alltoolsverse.com/tools/sql-minifier/) - Removes SQL comments and collapses whitespace locally in the browser.
 
 ## Oracle
 
