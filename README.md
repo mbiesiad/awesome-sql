@@ -26,6 +26,7 @@ SQL-related awesome list.
 * [Testing Framework for PL/SQL](http://utplsql.org/) - An open-source testing framework for PL/SQL and SQL.
 * [Oracle Database 18c Express Edition](https://www.oracle.com/database/technologies/appdev/xe.html) - Free Oracle Database for everyone.
 * [Oracle Database Online Documentation 12c](https://docs.oracle.com/database/121/SQLRF/toc.htm) - Documentation, release 1 (12.1).
+* [Use The Index, Luke](https://use-the-index-luke.com/) - A guide to database performance , focused on SQL indexing.
 
 ## SQL Server
 
