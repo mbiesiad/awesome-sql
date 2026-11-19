@@ -59,6 +59,7 @@ Other awesome links & resources!
 * [SQLZoo](https://sqlzoo.net/) - SQL Tutorial.
 * [Scaler Topics](https://www.scaler.com/topics/sql/) - Learn basic and advanced concepts of SQL.
 * [InetrviewBit](https://www.interviewbit.com/sql-cheat-sheet/) - Learn SQL: Basic to Advanced Concepts.
+* [WebCheatSheet SQL](https://webcheatsheet.com/sql/index) - Free SQL reference with examples for SELECT, joins, and grouping.
 
 ## Conferences
 
